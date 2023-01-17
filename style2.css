@@ -1,0 +1,12 @@
+body{
+    border-radius: 2px;
+    border-color: yellow;
+    border-style: dashed;
+    border-width: 4px;
+    padding: 10px;
+    background-color: black;
+    text-align: center;
+}
+label{
+    color: yellow;
+}
